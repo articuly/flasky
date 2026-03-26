@@ -44,3 +44,10 @@ venv
 # Environment files
 .env
 .env-mysql
+.idea/modules.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/flasky.iml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/codeStyles/codeStyleConfig.xml
+.idea/misc.xml
